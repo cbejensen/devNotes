@@ -1,0 +1,23 @@
+body p:nth-child(1):hover{
+  color: blue;
+  font-family: cursive;
+}
+
+body p:nth-child(2):hover{
+  color: red;
+  font-family: cursive;
+}
+
+body p:nth-child(1):link{
+  color: green;
+  font-family: cursive;
+}
+
+body p a:visited{
+  color: green;
+}
+
+body #fourth a:hover{
+  color: brown;
+  font-family: cursive;
+}

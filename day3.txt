@@ -1,0 +1,6 @@
+DAY 3
+
+HTML - Hyper-text Markup Language
+
+HTML was meant for documents instead of application layouts.
+ 
